@@ -25,6 +25,7 @@
 /w44668
 /I "D:\UT4 Engine\UE_4.18\Engine\Source"
 /I E:\Battle-Tanks\BattleTanks\Source
+/I E:\Battle-Tanks\BattleTanks\Source\BattleTanks\Public
 /I E:\Battle-Tanks\BattleTanks\Intermediate\Build\Win64\UE4Editor\Inc\BattleTanks
 /I E:\Battle-Tanks\BattleTanks\Source\BattleTanks
 /I "D:\UT4 Engine\UE_4.18\Engine\Source\Runtime\Core\Public"
